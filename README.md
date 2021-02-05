@@ -1,4 +1,4 @@
-# plant-pathology
+# Plant Pathology
 
 This project was done as a part of Kaggle contest Plant Pathology 2020 - FGV C7.
 
