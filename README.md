@@ -47,4 +47,4 @@ As expected, EfficientNet-B5 gave the highest precision, recall and F1 score for
 [https://www.ripublication.com/ijcir17/ijcirv13n7_23.pdf](https://www.ripublication.com/ijcir17/ijcirv13n7_23.pdf)
 
 * **EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**  
-[](https://medium.com/@nainaakash012/efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-92941c5bfb95)
+[https://medium.com/@nainaakash012/efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-92941c5bfb95](https://medium.com/@nainaakash012/efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-92941c5bfb95)
